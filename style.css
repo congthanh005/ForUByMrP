@@ -1,0 +1,14 @@
+body {
+  background-color: antiquewhite;
+  /* position: relative; */
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+}
+.gift {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 200px;
+}
